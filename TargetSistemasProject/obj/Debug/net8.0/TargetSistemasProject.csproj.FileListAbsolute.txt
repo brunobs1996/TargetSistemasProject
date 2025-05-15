@@ -1,0 +1,14 @@
+C:\Users\Bruno\Documents\Development\.Net\TargetSistemasProject\TargetSistemasProject\bin\Debug\net8.0\TargetSistemasProject.exe
+C:\Users\Bruno\Documents\Development\.Net\TargetSistemasProject\TargetSistemasProject\bin\Debug\net8.0\TargetSistemasProject.deps.json
+C:\Users\Bruno\Documents\Development\.Net\TargetSistemasProject\TargetSistemasProject\bin\Debug\net8.0\TargetSistemasProject.runtimeconfig.json
+C:\Users\Bruno\Documents\Development\.Net\TargetSistemasProject\TargetSistemasProject\bin\Debug\net8.0\TargetSistemasProject.dll
+C:\Users\Bruno\Documents\Development\.Net\TargetSistemasProject\TargetSistemasProject\bin\Debug\net8.0\TargetSistemasProject.pdb
+C:\Users\Bruno\Documents\Development\.Net\TargetSistemasProject\TargetSistemasProject\obj\Debug\net8.0\TargetSistemasProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\Development\.Net\TargetSistemasProject\TargetSistemasProject\obj\Debug\net8.0\TargetSistemasProject.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\Development\.Net\TargetSistemasProject\TargetSistemasProject\obj\Debug\net8.0\TargetSistemasProject.AssemblyInfo.cs
+C:\Users\Bruno\Documents\Development\.Net\TargetSistemasProject\TargetSistemasProject\obj\Debug\net8.0\TargetSistemasProject.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Development\.Net\TargetSistemasProject\TargetSistemasProject\obj\Debug\net8.0\TargetSistemasProject.dll
+C:\Users\Bruno\Documents\Development\.Net\TargetSistemasProject\TargetSistemasProject\obj\Debug\net8.0\refint\TargetSistemasProject.dll
+C:\Users\Bruno\Documents\Development\.Net\TargetSistemasProject\TargetSistemasProject\obj\Debug\net8.0\TargetSistemasProject.pdb
+C:\Users\Bruno\Documents\Development\.Net\TargetSistemasProject\TargetSistemasProject\obj\Debug\net8.0\TargetSistemasProject.genruntimeconfig.cache
+C:\Users\Bruno\Documents\Development\.Net\TargetSistemasProject\TargetSistemasProject\obj\Debug\net8.0\ref\TargetSistemasProject.dll
