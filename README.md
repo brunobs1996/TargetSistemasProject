@@ -18,6 +18,6 @@ Quantidade de empresas em que já trabalhei: 3
 
 Para a execução deste projeto foi utilizado o .NET 8.0
 
-Na  maioria das classes foi utilizado o recurso de "scoped namespace" e apenas recursos nativos da linguagem C#, sem a necessidade de utilizar bibliotecas externas.
+Na  maioria das classes foi utilizado o recurso de "scoped namespace", aliado apenas a recursos nativos da linguagem C#, sem a necessidade de utilizar bibliotecas externas.
 
 Quaisquer eventuais dúvidas, estou disponível no e-mail: brunobs1996@gmail.com
