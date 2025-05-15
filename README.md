@@ -1,4 +1,4 @@
-# Target Sistemas Projeto
+# Target Sistemas - Projeto Técnico de Teste
 
 Projeto de teste técnico destinado a vaga de programador júnior para a empresa Target Sistemas
 
